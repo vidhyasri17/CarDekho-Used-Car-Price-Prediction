@@ -4,20 +4,20 @@
 CarDekho - Used Car Price Prediction is a machine learning project aimed at predicting the price of used cars based on various features. This project enhances customer experience by streamlining the pricing process and provides an accurate, interactive tool for price prediction. The final deliverable is a user-friendly web application developed with Streamlit.
 
 # Features
-# Data Preprocessing:
-  Handling missing values.
-  Encoding categorical variables.
-  Normalizing numerical features.
-# Exploratory Data Analysis (EDA):
-  Deriving insights from historical car sales data.
-# Machine Learning Models:
- Developing regression models for price prediction.
-# Interactive Web Application:
- Deployed using Streamlit for ease of use.
-# Scalable and Customizable Solution:
- Supports adding new data and features.
+  Data Preprocessing:
+    Handling missing values.
+    Encoding categorical variables.
+    Normalizing numerical features.
+  Exploratory Data Analysis (EDA):
+    Deriving insights from historical car sales data.
+  Machine Learning Models:
+    Developing regression models for price prediction.
+  Interactive Web Application:
+    Deployed using Streamlit for ease of use.
+  Scalable and Customizable Solution:
+    Supports adding new data and features.
 # Technologies Used
- # Programming Language: Python
+   Programming Language: Python
  # Libraries:
     Data Processing: Pandas, NumPy
     Visualization: Matplotlib, Seaborn
